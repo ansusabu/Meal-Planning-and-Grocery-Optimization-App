@@ -6,9 +6,6 @@ This application is designed to simplify the meal planning and grocery shopping 
 
 ## Features
 
-- **User Authentication:**
-  - Users can create accounts, log in, and securely store their preferences.
-
 - **Meal Planning:**
   - Generate personalized meal plans based on dietary preferences, restrictions, and the number of people.
 
