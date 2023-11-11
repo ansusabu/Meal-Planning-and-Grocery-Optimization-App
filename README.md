@@ -15,7 +15,7 @@ This application is designed to simplify the meal planning and grocery shopping 
 - **Shopping List Generator:**
   - Create a comprehensive shopping list based on the generated meal plans, considering pantry items.
  
-##Phase 2 Enhancements
+## Phase 2 Enhancements
 
 - User Authentication
 - Integrating generative AI solution to suggest meal plans
